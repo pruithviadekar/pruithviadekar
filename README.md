@@ -1,7 +1,7 @@
 
 ![WhatsApp Image 2025-08-03 at 14 49 27](https://github.com/user-attachments/assets/c589b2a5-93b7-4139-8f58-8c2f20871ae8)
 
-<h1 align="center">Hi 👋, I'm Uttam Mane</h1>
+<h1 align="center">Hi 👋, I'm Pruthvi Adekar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 Creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
