@@ -19,7 +19,7 @@ Creating things that live on the internet is a passion. A passionate Developer �
 🤓 Always learning new things.
 <br>
 <br>
-🤔 Check Out my <a href="https://drive.google.com/file/d/1XHtFwloDtjnLm3gKDYoVgxqjmjIF3neb/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
 👨‍💻 Know more about me <a href="https://uttammane.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
